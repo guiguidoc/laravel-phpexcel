@@ -22,7 +22,7 @@ Place the following code in ``application/bundles.php``:
 
 
     'phpexcel'    => array(
-        auto        => true
+        'auto'        => true
     )
 
 
