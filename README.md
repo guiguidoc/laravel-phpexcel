@@ -14,7 +14,7 @@ Project providing a set of classes for the PHP programming language, which allow
 
 Run this command on the CLI:
 
-    php artisan bundle:install phpexcel
+    php artisan bundle:install laravel-phpexcel
 
 ### Registering the Bundle
 
