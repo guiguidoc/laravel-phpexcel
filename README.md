@@ -21,7 +21,7 @@ Run this command on the CLI:
 Place the following code in ``application/bundles.php``:
 
 
-    'phpexcel'    => array(
+    'laravel-phpexcel'    => array(
         'auto'        => true
     )
 
